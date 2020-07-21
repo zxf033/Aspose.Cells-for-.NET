@@ -15,7 +15,7 @@ env:
     - DEST_DIR=/var/www/docs.aspose.com/html
 
 before_install:
-- openssl aes-256-cbc -K $encrypted_dfdcfd5172af_key -iv $encrypted_dfdcfd5172af_iv
+- openssl aes-256-cbc -K $encrypted_d8ef1c79001c_key -iv $encrypted_d8ef1c79001c_iv
   -in deploy_key.enc -out ./deploy_key -d
 - eval "$(ssh-agent -s)"
 - chmod 600 ./deploy_key
