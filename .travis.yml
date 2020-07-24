@@ -30,7 +30,7 @@ script:
 - hugo --source $ROOT_DIR --minify --config config.toml
 
 after_success:
-- scp -i ./deploy_key -r $SRC_DIR $USER@$HOST:$DEST_DIR/cells
+- scp -i ./deploy_key -r $SRC_DIR/* $USER@$HOST:$DEST_DIR/cells
 
 
 
