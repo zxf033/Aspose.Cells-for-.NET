@@ -30,5 +30,8 @@ script:
 - hugo --source $ROOT_DIR --minify --config config.toml
 
 after_success:
-- scp -i ./deploy_key -r $SRC_DIR/$PRODUCT $USER@$HOST:$DEST_DIR
-- scp -i ./deploy_key -r $SRC_DIR/sitemap.xml $USER@$HOST:$DEST_DIR/sitemaps/$PRODUCT-$PLATFORM.xml
+- scp -i ./deploy_key -r $SRC_DIR $USER@$HOST:$DEST_DIR/cells
+
+
+
+
