@@ -4,6 +4,7 @@ git:
 branches:
   only:
   - master
+  - netDoc
   
 env:
   global:
@@ -26,7 +27,7 @@ install:
 - sudo dpkg -i hugo_extended_0.67.1_Linux-64bit.deb
 
 script:
-- hugo --source $ROOT_DIR --minify --config config.toml
+- travis_wait 60 hugo --source $ROOT_DIR --minify --config config.toml
 
 after_success:
 - travis_wait 60 scp -i ./deploy_key -r $SRC_DIR/* $USER@$HOST:$DEST_DIR/cells
