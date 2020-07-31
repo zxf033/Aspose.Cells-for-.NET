@@ -1,10 +1,11 @@
-+++
-title = "Getting Started" 
-description = "" 
-weight = 4002 
-+++
-
-Aspose.Cells for .NET : Getting Started  
+---
+title : "Getting Started" 
+description : "" 
+weight : 4002 
+toc : false
+type: docs
+url: /net/gettingstarted/
+---
 
 # Aspose.Cells for .NET : Getting Started
 
@@ -14,21 +15,21 @@ Aspose.Cells for .NET : Getting Started
 &nbsp;&nbsp;&nbsp;&nbsp;[**Product Overview**](https://docs2.aspose.com/cells/net/gettingstarted/product+overview)    
 &nbsp;&nbsp;&nbsp;&nbsp;[**Supported File Formats**](https://docs2.aspose.com/cells/net/gettingstarted/supported+file+formats)    
 &nbsp;&nbsp;&nbsp;&nbsp;[**Declaration**](https://docs2.aspose.com/cells/net/gettingstarted/declaration)    
-&nbsp;&nbsp;&nbsp;&nbsp;[**Aspose.Cells Features**](https://docs2.aspose.com/cells/net/gettingstarted/asposecellsfeatures/)    
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Feature Overview**](https://docs2.aspose.com/cells/net/gettingstarted/asposecellsfeatures/feature+overview)    
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Microsoft Excel Spreadsheet Management Library**](https://docs2.aspose.com/cells/net/gettingstarted/asposecellsfeatures/microsoft+excel+spreadsheet+management+library)    
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Aspose.Cells.GridDesktop - Desktop Grid Control**](https://docs2.aspose.com/cells/net/gettingstarted/asposecellsfeatures/aspose.cells.griddesktop+-+desktop+grid+control)    
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Aspose.Cells.GridWeb - Web Grid Control**](https://docs2.aspose.com/cells/net/gettingstarted/asposecellsfeatures/aspose.cells.gridweb+-+web+grid+control)    
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**File Formats and Conversions**](https://docs2.aspose.com/cells/net/gettingstarted/asposecellsfeatures/fileformatsandconversions/)    
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**SpreadsheetML - XLSX XML**](https://docs2.aspose.com/cells/net/gettingstarted/asposecellsfeatures/fileformatsandconversions/spreadsheetml+-+xlsx+xml)    
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**OpenDocument - ODS**](https://docs2.aspose.com/cells/net/gettingstarted/asposecellsfeatures/fileformatsandconversions/opendocument+-+ods)    
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**XML Paper Specification - XPS**](https://docs2.aspose.com/cells/net/gettingstarted/asposecellsfeatures/fileformatsandconversions/xml+paper+specification+-+xps)    
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Adobe Portable Document Format - PDF**](https://docs2.aspose.com/cells/net/gettingstarted/asposecellsfeatures/fileformatsandconversions/adobe+portable+document+format+-+pdf)    
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**HyperText Markup Language Format - HTML**](https://docs2.aspose.com/cells/net/gettingstarted/asposecellsfeatures/fileformatsandconversions/hypertext+markup+language+format+-+html)    
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**What Document Features are Supported**](https://docs2.aspose.com/cells/net/gettingstarted/asposecellsfeatures/whatdocumentfeaturesaresupported/)    
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Save in the ODS - OpenDocument Spreadsheet Format**](https://docs2.aspose.com/cells/net/gettingstarted/asposecellsfeatures/whatdocumentfeaturesaresupported/save+in+the+ods+-+opendocument+spreadsheet+format)    
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Aspose.Cells for iOS via Xamarin Features**](https://docs2.aspose.com/cells/net/gettingstarted/asposecellsfeatures/asposecellsforiosviaxamarinfeatures/)    
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Aspose.Cells for iOS via Xamarin Limitations and API Differences**](https://docs2.aspose.com/cells/net/gettingstarted/asposecellsfeatures/asposecellsforiosviaxamarinfeatures/aspose.cells+for+ios+via+xamarin+limitations+and+api+differences)    
+&nbsp;&nbsp;&nbsp;&nbsp;[**Aspose.Cells Features**](https://docs2.aspose.com/cells/net/gettingstarted/features/)    
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Feature Overview**](https://docs2.aspose.com/cells/net/gettingstarted/features/feature+overview)    
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Microsoft Excel Spreadsheet Management Library**](https://docs2.aspose.com/cells/net/gettingstarted/features/microsoft+excel+spreadsheet+management+library)    
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Aspose.Cells.GridDesktop - Desktop Grid Control**](https://docs2.aspose.com/cells/net/gettingstarted/features/aspose.cells.griddesktop+-+desktop+grid+control)    
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Aspose.Cells.GridWeb - Web Grid Control**](https://docs2.aspose.com/cells/net/gettingstarted/features/aspose.cells.gridweb+-+web+grid+control)    
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**File Formats and Conversions**](https://docs2.aspose.com/cells/net/gettingstarted/features/fileformatsandconversions/)    
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**SpreadsheetML - XLSX XML**](https://docs2.aspose.com/cells/net/gettingstarted/features/fileformatsandconversions/spreadsheetml+-+xlsx+xml)    
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**OpenDocument - ODS**](https://docs2.aspose.com/cells/net/gettingstarted/features/fileformatsandconversions/opendocument+-+ods)    
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**XML Paper Specification - XPS**](https://docs2.aspose.com/cells/net/gettingstarted/features/fileformatsandconversions/xml+paper+specification+-+xps)    
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Adobe Portable Document Format - PDF**](https://docs2.aspose.com/cells/net/gettingstarted/features/fileformatsandconversions/adobe+portable+document+format+-+pdf)    
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**HyperText Markup Language Format - HTML**](https://docs2.aspose.com/cells/net/gettingstarted/features/fileformatsandconversions/hypertext+markup+language+format+-+html)    
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**What Document Features are Supported**](https://docs2.aspose.com/cells/net/gettingstarted/features/documentsupported/)    
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Save in the ODS - OpenDocument Spreadsheet Format**](https://docs2.aspose.com/cells/net/gettingstarted/features/documentsupported/save+in+the+ods+-+opendocument+spreadsheet+format)    
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Aspose.Cells for iOS via Xamarin Features**](https://docs2.aspose.com/cells/net/gettingstarted/features/iosviaxamarin/)    
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Aspose.Cells for iOS via Xamarin Limitations and API Differences**](https://docs2.aspose.com/cells/net/gettingstarted/features/iosviaxamarin/aspose.cells+for+ios+via+xamarin+limitations+and+api+differences)    
 &nbsp;&nbsp;&nbsp;&nbsp;[**Why Not Automation**](https://docs2.aspose.com/cells/net/gettingstarted/why+not+automation)    
 &nbsp;&nbsp;&nbsp;&nbsp;[**Known Issues**](https://docs2.aspose.com/cells/net/gettingstarted/knownissues/)    
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**HTTP Compression**](https://docs2.aspose.com/cells/net/gettingstarted/knownissues/http+compression)    
@@ -46,8 +47,8 @@ Aspose.Cells for .NET : Getting Started
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Installation**](https://docs2.aspose.com/cells/net/gettingstarted/installationanddeployment/installation)    
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Deployment**](https://docs2.aspose.com/cells/net/gettingstarted/installationanddeployment/deployment/)    
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Using Aspose.Cells on 32-bit and 64-bit Platforms**](https://docs2.aspose.com/cells/net/gettingstarted/installationanddeployment/deployment/using+aspose.cells+on+32-bit+and+64-bit+platforms)    
-&nbsp;&nbsp;&nbsp;&nbsp;[**Aspose.Cells Grid Suite and VS.NET**](https://docs2.aspose.com/cells/net/gettingstarted/asposecellsgridsuiteandvsnet/)    
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Integrate Aspose.Cells Grid Controls with Visual Studio.NET**](https://docs2.aspose.com/cells/net/gettingstarted/asposecellsgridsuiteandvsnet/integrate+aspose.cells+grid+controls+with+visual+studio.net)    
+&nbsp;&nbsp;&nbsp;&nbsp;[**Aspose.Cells Grid Suite and VS.NET**](https://docs2.aspose.com/cells/net/gettingstarted/gridsuiteandvsnet/)    
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Integrate Aspose.Cells Grid Controls with Visual Studio.NET**](https://docs2.aspose.com/cells/net/gettingstarted/gridsuiteandvsnet/integrate+aspose.cells+grid+controls+with+visual+studio.net)    
 &nbsp;&nbsp;&nbsp;&nbsp;[**Licensing**](https://docs2.aspose.com/cells/net/gettingstarted/licensing)    
 &nbsp;&nbsp;&nbsp;&nbsp;[**Success Stories**](https://docs2.aspose.com/cells/net/gettingstarted/successstories/)    
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Testimonials**](https://docs2.aspose.com/cells/net/gettingstarted/successstories/testimonials)    
@@ -58,54 +59,6 @@ Aspose.Cells for .NET : Getting Started
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Industry Reviews**](https://docs2.aspose.com/cells/net/gettingstarted/successstories/industry+reviews)    
 &nbsp;&nbsp;&nbsp;&nbsp;[**How to Run the Examples**](https://docs2.aspose.com/cells/net/gettingstarted/how+to+run+the+examples)    
 
-[Expand all](#)   [Collapse all](#)
 
            
-
-## Attachments:
-
-![](https://docs2.aspose.com/cells/net/images/icons/bullet_blue.gif) [Product Overview-001.png](https://docs2.aspose.com/cells/net/attachments/5018354/5114831.png) (image/png)  
-![](https://docs2.aspose.com/cells/net/images/icons/bullet_blue.gif) [aspose.Cells-Java\_logo.png](https://docs2.aspose.com/cells/net/attachments/5018354/5114832.png) (image/png)  
-![](https://docs2.aspose.com/cells/net/images/icons/bullet_blue.gif) [aspose.cells-for-.net.jpg](https://docs2.aspose.com/cells/net/attachments/5018354/5114833.jpg) (image/png)  
-![](https://docs2.aspose.com/cells/net/images/icons/bullet_blue.gif) [aspose.cells-for-NET.png](https://docs2.aspose.com/cells/net/attachments/5018354/5114834.png) (image/png)  
-![](https://docs2.aspose.com/cells/net/images/icons/bullet_blue.gif) [aspose-Cells-for-net.png](https://docs2.aspose.com/cells/net/attachments/5018354/5114835.png) (image/png)  
-![](https://docs2.aspose.com/cells/net/images/icons/bullet_blue.gif) [Licensing-001.png](https://docs2.aspose.com/cells/net/attachments/5018354/5114836.png) (image/png)  
-![](https://docs2.aspose.com/cells/net/images/icons/bullet_blue.gif) [Licensing-002.png](https://docs2.aspose.com/cells/net/attachments/5018354/5114837.png) (image/png)  
-![](https://docs2.aspose.com/cells/net/images/icons/bullet_blue.gif) [Licensing-003.png](https://docs2.aspose.com/cells/net/attachments/5018354/5114838.png) (image/png)  
-![](https://docs2.aspose.com/cells/net/images/icons/bullet_blue.gif) [Licensing-004.png](https://docs2.aspose.com/cells/net/attachments/5018354/5114856.png) (image/png)  
-![](https://docs2.aspose.com/cells/net/images/icons/bullet_blue.gif) [Licensing-005.png](https://docs2.aspose.com/cells/net/attachments/5018354/5114855.png) (image/png)  
-![](https://docs2.aspose.com/cells/net/images/icons/bullet_blue.gif) [Licensing-006.png](https://docs2.aspose.com/cells/net/attachments/5018354/5114858.png) (image/png)  
-![](https://docs2.aspose.com/cells/net/images/icons/bullet_blue.gif) [SpreadsheetML (XLSX, XML)-001.png](https://docs2.aspose.com/cells/net/attachments/5018354/5114857.png) (image/png)  
-![](https://docs2.aspose.com/cells/net/images/icons/bullet_blue.gif) [SpreadsheetML (XLSX, XML)-002.png](https://docs2.aspose.com/cells/net/attachments/5018354/5114860.png) (image/png)  
-![](https://docs2.aspose.com/cells/net/images/icons/bullet_blue.gif) [OpenDocument (ODS)-001.png](https://docs2.aspose.com/cells/net/attachments/5018354/5114859.png) (image/png)  
-![](https://docs2.aspose.com/cells/net/images/icons/bullet_blue.gif) [XML Paper Specification (XPS)-001.png](https://docs2.aspose.com/cells/net/attachments/5018354/5114862.png) (image/png)  
-![](https://docs2.aspose.com/cells/net/images/icons/bullet_blue.gif) [XML Paper Specification (XPS)-002.png](https://docs2.aspose.com/cells/net/attachments/5018354/5114861.png) (image/png)  
-![](https://docs2.aspose.com/cells/net/images/icons/bullet_blue.gif) [XML Paper Specification (XPS)-003.png](https://docs2.aspose.com/cells/net/attachments/5018354/5114848.png) (image/png)  
-![](https://docs2.aspose.com/cells/net/images/icons/bullet_blue.gif) [Adobe Portable Document Format (PDF)-001.png](https://docs2.aspose.com/cells/net/attachments/5018354/5114847.png) (image/png)  
-![](https://docs2.aspose.com/cells/net/images/icons/bullet_blue.gif) [Adobe Portable Document Format (PDF)-002.PNG](https://docs2.aspose.com/cells/net/attachments/5018354/5114850.png) (image/png)  
-![](https://docs2.aspose.com/cells/net/images/icons/bullet_blue.gif) [Adobe Portable Document Format (PDF)-003.PNG](https://docs2.aspose.com/cells/net/attachments/5018354/5114849.png) (image/png)  
-![](https://docs2.aspose.com/cells/net/images/icons/bullet_blue.gif) [HyperText Markup Language Format (HTML)-001.PNG](https://docs2.aspose.com/cells/net/attachments/5018354/5114852.png) (image/png)  
-![](https://docs2.aspose.com/cells/net/images/icons/bullet_blue.gif) [HyperText Markup Language Format (HTML)-002.PNG](https://docs2.aspose.com/cells/net/attachments/5018354/5114851.png) (image/png)  
-![](https://docs2.aspose.com/cells/net/images/icons/bullet_blue.gif) [Right90 Sales Forecasting-001.png](https://docs2.aspose.com/cells/net/attachments/5018354/5114876.png) (image/png)  
-![](https://docs2.aspose.com/cells/net/images/icons/bullet_blue.gif) [Blue Inkt Business Solutions Providers-001.png](https://docs2.aspose.com/cells/net/attachments/5018354/5114865.png) (image/png)  
-![](https://docs2.aspose.com/cells/net/images/icons/bullet_blue.gif) [Ohal Report Canvas Component-001.png](https://docs2.aspose.com/cells/net/attachments/5018354/5114866.png) (image/png)  
-![](https://docs2.aspose.com/cells/net/images/icons/bullet_blue.gif) [Referencing Aspose.Cells component from a .NET project-001.png](https://docs2.aspose.com/cells/net/attachments/5018354/5114792.png) (image/png)  
-![](https://docs2.aspose.com/cells/net/images/icons/bullet_blue.gif) [Extension Manager Dialog.jpg](https://docs2.aspose.com/cells/net/attachments/5018354/5114791.jpg) (image/png)  
-![](https://docs2.aspose.com/cells/net/images/icons/bullet_blue.gif) [Extension Manager.jpg](https://docs2.aspose.com/cells/net/attachments/5018354/5114794.jpg) (image/png)  
-![](https://docs2.aspose.com/cells/net/images/icons/bullet_blue.gif) [Package Installed.jpg](https://docs2.aspose.com/cells/net/attachments/5018354/5114793.jpg) (image/png)  
-![](https://docs2.aspose.com/cells/net/images/icons/bullet_blue.gif) [Package Manager Menu.jpg](https://docs2.aspose.com/cells/net/attachments/5018354/5114788.jpg) (image/png)  
-![](https://docs2.aspose.com/cells/net/images/icons/bullet_blue.gif) [Update Aspose.Cells.jpg](https://docs2.aspose.com/cells/net/attachments/5018354/5114787.jpg) (image/png)  
-![](https://docs2.aspose.com/cells/net/images/icons/bullet_blue.gif) [Solution Manage Packages.jpg](https://docs2.aspose.com/cells/net/attachments/5018354/5114790.jpg) (image/png)  
-![](https://docs2.aspose.com/cells/net/images/icons/bullet_blue.gif) [Solution Manage Packages (1).jpg](https://docs2.aspose.com/cells/net/attachments/5018354/5114789.jpg) (image/png)  
-![](https://docs2.aspose.com/cells/net/images/icons/bullet_blue.gif) [Solution Explorer.jpg](https://docs2.aspose.com/cells/net/attachments/5018354/5114784.jpg) (image/png)  
-![](https://docs2.aspose.com/cells/net/images/icons/bullet_blue.gif) [Package Manager1.jpg](https://docs2.aspose.com/cells/net/attachments/5018354/5114783.jpg) (image/png)  
-![](https://docs2.aspose.com/cells/net/images/icons/bullet_blue.gif) [License Agreement.jpg](https://docs2.aspose.com/cells/net/attachments/5018354/5114786.jpg) (image/png)  
-![](https://docs2.aspose.com/cells/net/images/icons/bullet_blue.gif) [Install Aspose.Words GUI.jpg](https://docs2.aspose.com/cells/net/attachments/5018354/5114785.jpg) (image/png)  
-![](https://docs2.aspose.com/cells/net/images/icons/bullet_blue.gif) [Downloading Dialog.jpg](https://docs2.aspose.com/cells/net/attachments/5018354/5114813.jpg) (image/png)  
-![](https://docs2.aspose.com/cells/net/images/icons/bullet_blue.gif) [Package Manager Console.jpg](https://docs2.aspose.com/cells/net/attachments/5018354/5114814.jpg) (image/png)  
-![](https://docs2.aspose.com/cells/net/images/icons/bullet_blue.gif) [Integrate Aspose.Cells Grid Controls with Visual Studio.NET-001.png](https://docs2.aspose.com/cells/net/attachments/5018354/5114801.png) (image/png)  
-![](https://docs2.aspose.com/cells/net/images/icons/bullet_blue.gif) [Integrate Aspose.Cells Grid Controls with Visual Studio.NET-002.png](https://docs2.aspose.com/cells/net/attachments/5018354/5114802.png) (image/png)  
-![](https://docs2.aspose.com/cells/net/images/icons/bullet_blue.gif) [Integrate Aspose.Cells Grid Controls with Visual Studio.NET-003.png](https://docs2.aspose.com/cells/net/attachments/5018354/5114799.png) (image/png)  
-![](https://docs2.aspose.com/cells/net/images/icons/bullet_blue.gif) [Integrate Aspose.Cells Grid Controls with Visual Studio.NET-004.png](https://docs2.aspose.com/cells/net/attachments/5018354/5114800.png) (image/png)  
-![](https://docs2.aspose.com/cells/net/images/icons/bullet_blue.gif) [Integrate Aspose.Cells Grid Controls with Visual Studio.NET-005.png](https://docs2.aspose.com/cells/net/attachments/5018354/5114830.png) (image/png)  
 
