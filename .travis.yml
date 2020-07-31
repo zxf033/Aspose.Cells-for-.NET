@@ -4,7 +4,6 @@ git:
 branches:
   only:
   - master
-  - netDoc
   
 env:
   global:
